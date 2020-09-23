@@ -1,4 +1,5 @@
- <p>
+#Coinraiser
+<p>
     In Coinraiser, campaign contributors can have a say in
     where the funded money goes to. 
 </p>
